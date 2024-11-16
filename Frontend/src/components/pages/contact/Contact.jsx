@@ -5,7 +5,7 @@ import News from "./sections/News";
 function Contact() {
   return (
     <>
-
+Contact
       <section id="banner">
         <Banner />
       </section>

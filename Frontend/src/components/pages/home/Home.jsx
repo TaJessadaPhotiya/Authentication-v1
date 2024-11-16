@@ -5,6 +5,7 @@ import Autopilot from "./sections/Autopilot";
 function Home() {
   return (
     <>
+    Home
       <section id="banner">
         <Banner />
       </section>

@@ -6,6 +6,7 @@ import Stories from "./sections/Stories";
 function About() {
   return (
     <>
+      About
       <section id="banner">
         <Banner />
       </section>
