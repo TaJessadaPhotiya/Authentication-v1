@@ -1,0 +1,19 @@
+node/
+├── config/
+│   └── db.js
+├── controllers/
+│   └── productController.js
+├── middleware/
+│   └── uploadMiddleware.js
+├── models/
+│   └── Product.js
+├── routes/
+│   └── productRoutes.js
+├── public/ 
+|   └── images/  (สำหรับเก็บรูปภาพ)
+├── index.js
+└── .env
+
+
+npm install express sequelize mysql2 multer cors dotenv
+npm install --save-dev nodemon
